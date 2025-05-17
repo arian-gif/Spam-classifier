@@ -8,7 +8,7 @@ This project uses Natural Language Processing (NLP) techniques to classify email
 - Model evaluation with confusion matrix and accuracy score
 - Achieves over **97% accuracy** on test data
 
-## Tech Stack
+## Tools and Libraries 
 - Python
 - Pandas, NumPy
 - NLTK (Natural Language Toolkit)
