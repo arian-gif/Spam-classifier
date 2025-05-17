@@ -1,5 +1,5 @@
 # Email Spam Detection using NLP and Logistic Regression
-This project uses Natural Language Processing (NLP) techniques to classify emails or SMS messages as **spam** or **ham** (not spam). The model is trained on a labeled dataset and achieves high accuracy using Logistic Regression.
+This project uses Natural Language Processing (NLP) techniques to classify emails or SMS messages as **spam** or **ham** (not spam). The model is trained on a labeled dataset from Kaggle.
 
 ## Features
 - Text preprocessing (cleaning, stemming, stopword removal)
